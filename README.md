@@ -1,2 +1,2 @@
-# torresignacio97
+# proyecto-2html
 Config files for my GitHub profile.
