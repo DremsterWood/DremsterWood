@@ -1,2 +1,2 @@
-# proyecto-2html
+# proyecto-optica
 Config files for my GitHub profile.
